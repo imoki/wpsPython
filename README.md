@@ -1,4 +1,3 @@
-# 🎉 金山文档智能调整定时任务时间程序
 <div align="center">
     <img src="https://socialify.git.ci/imoki/wpsPython/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark">
 <h1>默定时代理</h1>
